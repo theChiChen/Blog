@@ -12,7 +12,7 @@ buildExpired: false
 
 minify:
   disableXML: false
-  minifyOutput: false
+  minifyOutput: true
 
 defaultContentLanguage: zh-tw
 defaultContentLanguageInSubdir: false

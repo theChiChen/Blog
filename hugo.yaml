@@ -92,7 +92,7 @@ params:
   hideDescriptionInList: false
 
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  defaultTheme: auto # dark, light
+  defaultTheme: auto # auto, dark, light
   disableThemeToggle: false
   comments: false
 
